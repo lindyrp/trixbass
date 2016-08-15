@@ -3025,6 +3025,11 @@
 		z-index: 10002;
 	}
 
+	#menu a:hover {
+			border-bottom-color: transparent;
+			color: #bc8034 !important;
+		}
+
 		#menu > .inner {
 			-moz-transition: opacity 0.45s ease;
 			-webkit-transition: opacity 0.45s ease;
